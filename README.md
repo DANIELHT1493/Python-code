@@ -1,2 +1,5 @@
 # Python-code
 Codes in python
+You'll find algorithms as LOGIT, KNN, SVM, RANDOM FOREST, XGBOOST, LIGHTGBM ETC AND SMO FOR RECOGNITION OF IMAGES
+ENJOY THE AI ;)
+DHT
